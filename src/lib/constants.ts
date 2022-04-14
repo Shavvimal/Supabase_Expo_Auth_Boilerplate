@@ -1,0 +1,3 @@
+export const SUPABASE_URL = 'https://mgdgltgkrypdayyzrdvk.supabase.co'
+export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nZGdsdGdrcnlwZGF5eXpyZHZrIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NDk5NTEwNDMsImV4cCI6MTk2NTUyNzA0M30.Q8YKM-qQJvdgSD7hV4E4-bw3pLwcyleRUpaEIVIQtN0'
+
